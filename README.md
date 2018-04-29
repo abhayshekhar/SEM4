@@ -13,6 +13,10 @@
 3> write following commans for creating new file in the repo..
 
   $ nano <file name>.txt/.c
+  
+  copy and paste the file here
+  
+  use CNTRL+O to save the file and press ENTER and then CNTRL +X to exit
 
 4>write following commans for adding the file 
 
