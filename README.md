@@ -4,9 +4,9 @@
 
   $ su
   
-  after that enter your password
+  after that enter your  pc login password
 
-2>write following commans for changing the directory in the repo to where you want to work
+2> write following commans for changing the directory in the repo to where you want to work
 
   $ cd <dir name>
   
