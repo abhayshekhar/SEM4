@@ -3,6 +3,7 @@
 1> write following commans for using as root
 
   $ su
+  
   after that enter your password
 
 2>write following commans for changing the directory in the repo to where you want to work
@@ -24,7 +25,7 @@
 after that you need to enter 
 
 Username for 'https://github.com': <github username>
-Password for 'https://abhayshekhar@github.com': <github passsword>
+Password for 'https://<username>@github.com': <github passsword>
 
 6>write following commans for pulling previous works that have been done 
 
