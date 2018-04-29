@@ -22,7 +22,12 @@
 
   $ git add  <file name>.txt/.c
 
-5>write following commans for pushing the file into repo
+5>5>write following commans for pulling previous works that have been done 
+
+  $ git pull origin master
+
+
+6> write following commans for pushing the file into repo
 
   $ git push -u origin master
 
@@ -30,10 +35,6 @@ after that you need to enter
 
 Username for 'https://github.com': <github username>
 Password for 'https://<username>@github.com': <github passsword>
-
-6>write following commans for pulling previous works that have been done 
-
-  $ git pull origin master
 
 
 7> write following commans for committing the changes 
