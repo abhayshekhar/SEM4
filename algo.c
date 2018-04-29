@@ -1,7 +1,6 @@
     #include<stdio.h>
 
-     
-
+    
     int getMax(int arr[], int n) {
 
         int mx = arr[0];
