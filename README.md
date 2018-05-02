@@ -1,7 +1,7 @@
 # SEM4
 
 
-# algo
+# Algorithm
 
 # Computer_organization_and_architecture
 
