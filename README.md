@@ -1,8 +1,11 @@
 # SEM4
 
+
 # algo
 
 # Computer_organization_and_architecture
+
+# Computational chemistry
 
 1> write following commans for using as root
 
