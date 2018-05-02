@@ -1,5 +1,9 @@
 # SEM4
 
+# algo
+
+# Computer_organization_and_architecture
+
 1> write following commans for using as root
 
   $ su
